@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculateBirthDay</string>
+    <string name="year">Enter Your Year</string>
+    <string name="day">Day</string>
+    <string name="Year">Year</string>
+    <string name="month">Month</string>
+    <string name="enter_your">Enter Your ...</string>
+    <string name="calculate_birthday">Calculate Birthday</string>
+</resources>
